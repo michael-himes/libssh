@@ -22,7 +22,15 @@
  * SOFTWARE.
  */
 
-#include "chap11.h"
+//#include "chap11.h"
+//chap11.h orignally contaied the following
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#include <libssh/libssh.h>
+// end of libraies 
 
 int main(int argc, char *argv[])
 {
